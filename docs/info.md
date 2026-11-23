@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Escribe un numero binario de 4 entradas, tenemos una salida a 7 segmentos
 
 ## How to test
 
-Explain how to use your project
+Seleccionas un numero binario mediante una tabla de verdad del 0 a 9 y a la salida tendrás un numero decimal
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Display de 7 segmentos
